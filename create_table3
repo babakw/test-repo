@@ -1,0 +1,6 @@
+  
+create multiset table3(
+a varchr(10),
+zzzzzzzzz decimal(38,10)
+) unique primary index(a)
+;
