@@ -1,6 +1,7 @@
   
 create multiset table3(
 a varchar(10),
-zzzzzzzzz decimal(38,10)
+zzzzzzzzz decimal(38,10),
+sdasads decial(38,10)
 ) unique primary index(a)
 ;
